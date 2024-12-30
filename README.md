@@ -1,1 +1,4 @@
-# Explore tailwind project 
+## Explore tailwind project 
+# Feature:
+- Responsive
+- Mode Change
